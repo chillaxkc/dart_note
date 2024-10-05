@@ -25,3 +25,32 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Android Studio files
+.idea/
+*.iml
+.gradle/
+local.properties
+/.DS_Store
+
+# Build files
+/build/
+outputs/
+captures/
+
+# Misc
+*.log
+*.apk
+*.ap_
+*.dex
+*.class
+
+# IntelliJ IDEA
+*.ipr
+*.iws
+*.iml
+
+# Android Studio 3.0+
+.cxx/
+.externalNativeBuild/
+
